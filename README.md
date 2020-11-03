@@ -1,4 +1,4 @@
-# m3u8 视频在线提取工具
+# m3u8 视频在线提取工具（部署的原因只能抓取https的资源 http的资源可以尝试将项目下载到本地直接 用chrome打开index.html）
 
 ![界面](http://upyun.luckly-mjw.cn/Assets/m3u8-download/01.jpeg)
 ### [工具在线地址](https://yushk.github.io/m3u8_download/)，推荐使用 chrome 浏览器。
